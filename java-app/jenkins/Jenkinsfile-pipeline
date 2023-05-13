@@ -1,9 +1,7 @@
 pipeline {
-  agent {
-     node { 
-        label 'node01'
-     } 
-  }
+   agent {
+        label 'ubuntu'
+    }
   tools {
     maven 'maven-apache-3.8.4'
   }
