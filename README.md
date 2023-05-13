@@ -1,3 +1,0 @@
-# JavaApp
-
-new text
